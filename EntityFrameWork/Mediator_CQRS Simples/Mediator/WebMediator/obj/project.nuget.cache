@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "88wCNHM+Yo+nMDoQovzIml1iRnGb7ZNfOKENnUdPKVEeaUI7YDaLuCW3UzOvlYKy+9bXRB3FBftZC5BDhzdh3w==",
+  "success": true,
+  "projectFilePath": "C:\\Flavio\\GitHub\\EntityFrameWork\\Mediator_CQRS Simples\\Mediator\\WebMediator\\WebMediator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\flaviocastanho\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\flaviocastanho\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\flaviocastanho\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

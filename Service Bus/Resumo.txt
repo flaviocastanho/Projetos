@@ -1,0 +1,12 @@
+Video Service Bus
+https://www.youtube.com/watch?v=5nkQNuufuYs&ab_channel=AzurenaPr%C3%A1tica
+
+seguem os fontes dos projetos utilizados como exemplos:
+* Envio de mensagens: https://github.com/azurenapratica/DotNet5-AzureServiceBus-Topic_Sender
+* Consumo de mensagens: https://github.com/azurenapratica/DotNet5-Worker-AzureServiceBus-Topic_Receiver
+
+Teste comando Receive:
+dotnet run "Endpoint=sb://society360-dev.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=04QF6ajCVxjb8jHRMkuWgMcBT4kgoOxvs9f2DbCUrbc=" "EnviarFaturaPorEmailComando"
+
+Teste comando Send:
+dotnet run "Endpoint=sb://society360-dev.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=04QF6ajCVxjb8jHRMkuWgMcBT4kgoOxvs9f2DbCUrbc=" "EnviarFaturaPorEmailComando" "msg1"

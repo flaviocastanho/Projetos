@@ -1,0 +1,5 @@
+Video
+https://www.youtube.com/watch?v=wvN-AhRFj0s
+
+Git
+https://github.com/ValdirFerreira/MEDIATOR-CQRS-SIMPLES

@@ -1,0 +1,1 @@
+https://docs.microsoft.com/pt-br/azure/azure-functions/functions-create-your-first-function-visual-studio

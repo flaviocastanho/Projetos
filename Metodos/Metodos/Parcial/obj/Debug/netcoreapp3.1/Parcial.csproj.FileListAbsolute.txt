@@ -1,0 +1,14 @@
+C:\Flavio\GitHub\Parcial\Metodos\Parcial\bin\Debug\netcoreapp3.1\Parcial.exe
+C:\Flavio\GitHub\Parcial\Metodos\Parcial\bin\Debug\netcoreapp3.1\Parcial.deps.json
+C:\Flavio\GitHub\Parcial\Metodos\Parcial\bin\Debug\netcoreapp3.1\Parcial.runtimeconfig.json
+C:\Flavio\GitHub\Parcial\Metodos\Parcial\bin\Debug\netcoreapp3.1\Parcial.runtimeconfig.dev.json
+C:\Flavio\GitHub\Parcial\Metodos\Parcial\bin\Debug\netcoreapp3.1\Parcial.dll
+C:\Flavio\GitHub\Parcial\Metodos\Parcial\bin\Debug\netcoreapp3.1\Parcial.pdb
+C:\Flavio\GitHub\Parcial\Metodos\Parcial\obj\Debug\netcoreapp3.1\Parcial.csproj.AssemblyReference.cache
+C:\Flavio\GitHub\Parcial\Metodos\Parcial\obj\Debug\netcoreapp3.1\Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Flavio\GitHub\Parcial\Metodos\Parcial\obj\Debug\netcoreapp3.1\Parcial.AssemblyInfoInputs.cache
+C:\Flavio\GitHub\Parcial\Metodos\Parcial\obj\Debug\netcoreapp3.1\Parcial.AssemblyInfo.cs
+C:\Flavio\GitHub\Parcial\Metodos\Parcial\obj\Debug\netcoreapp3.1\Parcial.csproj.CoreCompileInputs.cache
+C:\Flavio\GitHub\Parcial\Metodos\Parcial\obj\Debug\netcoreapp3.1\Parcial.dll
+C:\Flavio\GitHub\Parcial\Metodos\Parcial\obj\Debug\netcoreapp3.1\Parcial.pdb
+C:\Flavio\GitHub\Parcial\Metodos\Parcial\obj\Debug\netcoreapp3.1\Parcial.genruntimeconfig.cache

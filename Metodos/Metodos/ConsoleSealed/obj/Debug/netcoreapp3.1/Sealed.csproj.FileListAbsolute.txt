@@ -1,0 +1,13 @@
+C:\Flavio\GitHub\Parcial\Metodos\ConsoleSealed\bin\Debug\netcoreapp3.1\Sealed.exe
+C:\Flavio\GitHub\Parcial\Metodos\ConsoleSealed\bin\Debug\netcoreapp3.1\Sealed.deps.json
+C:\Flavio\GitHub\Parcial\Metodos\ConsoleSealed\bin\Debug\netcoreapp3.1\Sealed.runtimeconfig.json
+C:\Flavio\GitHub\Parcial\Metodos\ConsoleSealed\bin\Debug\netcoreapp3.1\Sealed.runtimeconfig.dev.json
+C:\Flavio\GitHub\Parcial\Metodos\ConsoleSealed\bin\Debug\netcoreapp3.1\Sealed.dll
+C:\Flavio\GitHub\Parcial\Metodos\ConsoleSealed\bin\Debug\netcoreapp3.1\Sealed.pdb
+C:\Flavio\GitHub\Parcial\Metodos\ConsoleSealed\obj\Debug\netcoreapp3.1\Sealed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Flavio\GitHub\Parcial\Metodos\ConsoleSealed\obj\Debug\netcoreapp3.1\Sealed.AssemblyInfoInputs.cache
+C:\Flavio\GitHub\Parcial\Metodos\ConsoleSealed\obj\Debug\netcoreapp3.1\Sealed.AssemblyInfo.cs
+C:\Flavio\GitHub\Parcial\Metodos\ConsoleSealed\obj\Debug\netcoreapp3.1\Sealed.csproj.CoreCompileInputs.cache
+C:\Flavio\GitHub\Parcial\Metodos\ConsoleSealed\obj\Debug\netcoreapp3.1\Sealed.dll
+C:\Flavio\GitHub\Parcial\Metodos\ConsoleSealed\obj\Debug\netcoreapp3.1\Sealed.pdb
+C:\Flavio\GitHub\Parcial\Metodos\ConsoleSealed\obj\Debug\netcoreapp3.1\Sealed.genruntimeconfig.cache

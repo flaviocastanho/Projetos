@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3f807f27-8246-42bd-9ad6-e7e1a363304b": {
+      "ProjectGuid": "3f807f27-8246-42bd-9ad6-e7e1a363304b",
+      "DisplayName": "EFCore.Legado",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
