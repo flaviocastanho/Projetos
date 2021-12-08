@@ -1,11 +1,11 @@
 version: "3.8"
 
 volumes: 
-    SmartSchoolDb:
+    EFCoreDb:
 
 networks: 
     mysqlNET:
-    smartschoolNET:
+    EFCoreNET:
 
 services: 
 
@@ -15,7 +15,7 @@ services:
         ports: 
             - "3306:3306"
         volumes: 
-            - SmartSchoolDb:/var/lib/mysql
+            - EFCoreDb:/var/lib/mysql
         networks: 
             - mysqlNET
         environment: 
@@ -25,14 +25,14 @@ services:
             - MYSQL_ROOT_HOST=%
             - bind-address:0.0.0.0 
     
-    smartschool:
+    EFCore:
         build:
             context: .
             dockerfile: Dockerfile
-        container_name: smartschool
+        container_name: EFCore
         networks: 
             - mysqlNET
-            - smartschoolNET
+            - EFCoreNET
         ports: 
             - 5000:80
         environment: 
