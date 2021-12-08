@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tVGPHE2UHSjEH6XWh9AXv6XjzLyFy/au1+uWr1HJBzkZoKFnygBG7wyZBXe7GSTCgRdbFmzX+uj5D/X7tjYoBQ==",
+  "dgSpecHash": "RoaHV1BQBSUvGS4E0ybODX09qrK+sydumLiSg0qq7KiDenMy8GY7sdJJdhMk09gx6LCIL23yeH5igVO+dHXkNw==",
   "success": true,
-  "projectFilePath": "C:\\Flavio\\Curso Entigy FrameWork - Legado\\EFCore.Legado\\EFCore.Legado\\EFCore.Legado.csproj",
+  "projectFilePath": "C:\\Flavio\\GitHub\\Projetos\\EntityFrameWork\\Curso Entigy FrameWork - Legado\\EFCore.Legado\\EFCore.Legado\\EFCore.Legado.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\flaviocastanho\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\flaviocastanho\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -1,0 +1,164 @@
+{
+	"info": {
+		"_postman_id": "ce8fc7c1-887b-4fdb-b8da-f1099d08ea03",
+		"name": "CPN_Brasil",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET - Clientes",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:5000/api/Cliente",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"Cliente"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET - Cliente - Id",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:5000/api/Cliente/5",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"Cliente",
+						"5"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST - Cliente",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\":0,\r\n    \"nome\":\"TESTE 4\",\r\n    \"dt_Nascimento\":\"2021-12-07T00:00:00\",\r\n    \"status\":1,\r\n    \"dt_Inclusao\":\"2021-12-07T00:00:00\",\r\n    \"enderecos\":[\r\n        {\"id\":0,\r\n        \"logradouro\":\"1\",\r\n        \"cep\":\"1\",\r\n        \"uf\":\"1\",\r\n        \"cidade\":\"1\",\r\n        \"bairro\":\"1\",\r\n        \"status\":1,\r\n        \"dt_Inclusao\":\"2021-12-07T18:31:17.973\"\r\n        }\r\n    ]\r\n}"
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/Cliente",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"Cliente"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "PUT - Cliente",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\":5,\r\n    \"nome\":\"TESTE5.2\",\r\n    \"dt_Nascimento\":\"2021-12-07T00:00:00\",\r\n    \"status\":1,\r\n    \"dt_Inclusao\":\"2021-12-07T00:00:00\",\r\n    \"enderecos\":[\r\n        {\"id\":0,\r\n        \"logradouro\":\"5.2\",\r\n        \"cep\":\"1\",\r\n        \"uf\":\"1\",\r\n        \"cidade\":\"1\",\r\n        \"bairro\":\"1\",\r\n        \"status\":1,\r\n        \"dt_Inclusao\":\"2021-12-07T18:31:17.973\"\r\n        }\r\n    ]\r\n}"
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/Cliente/5",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"Cliente",
+						"5"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE - Cliente",
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": []
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/Cliente/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"Cliente",
+						"1"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

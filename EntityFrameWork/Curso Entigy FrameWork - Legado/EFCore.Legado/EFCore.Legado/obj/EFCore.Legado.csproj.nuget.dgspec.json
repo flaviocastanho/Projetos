@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Flavio\\Curso Entigy FrameWork - Legado\\EFCore.Legado\\EFCore.Legado\\EFCore.Legado.csproj": {}
+    "C:\\Flavio\\GitHub\\Projetos\\EntityFrameWork\\Curso Entigy FrameWork - Legado\\EFCore.Legado\\EFCore.Legado\\EFCore.Legado.csproj": {}
   },
   "projects": {
-    "C:\\Flavio\\Curso Entigy FrameWork - Legado\\EFCore.Legado\\EFCore.Legado\\EFCore.Legado.csproj": {
+    "C:\\Flavio\\GitHub\\Projetos\\EntityFrameWork\\Curso Entigy FrameWork - Legado\\EFCore.Legado\\EFCore.Legado\\EFCore.Legado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Flavio\\Curso Entigy FrameWork - Legado\\EFCore.Legado\\EFCore.Legado\\EFCore.Legado.csproj",
+        "projectUniqueName": "C:\\Flavio\\GitHub\\Projetos\\EntityFrameWork\\Curso Entigy FrameWork - Legado\\EFCore.Legado\\EFCore.Legado\\EFCore.Legado.csproj",
         "projectName": "EFCore.Legado",
-        "projectPath": "C:\\Flavio\\Curso Entigy FrameWork - Legado\\EFCore.Legado\\EFCore.Legado\\EFCore.Legado.csproj",
+        "projectPath": "C:\\Flavio\\GitHub\\Projetos\\EntityFrameWork\\Curso Entigy FrameWork - Legado\\EFCore.Legado\\EFCore.Legado\\EFCore.Legado.csproj",
         "packagesPath": "C:\\Users\\flaviocastanho\\.nuget\\packages\\",
-        "outputPath": "C:\\Flavio\\Curso Entigy FrameWork - Legado\\EFCore.Legado\\EFCore.Legado\\obj\\",
+        "outputPath": "C:\\Flavio\\GitHub\\Projetos\\EntityFrameWork\\Curso Entigy FrameWork - Legado\\EFCore.Legado\\EFCore.Legado\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flaviocastanho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://stisociety.pkgs.visualstudio.com/_packaging/STI.Society360.Compartilhado/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
